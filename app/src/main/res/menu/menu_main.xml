@@ -1,0 +1,45 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="selfa.v.studentsproject2.MainActivity">
+    <item
+        android:id="@+id/home"
+        android:orderInCategory="100"
+        android:title="@string/home"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/my_buttons"
+        android:orderInCategory="100"
+        android:title="@string/my_buttons"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/my_webs"
+        android:orderInCategory="100"
+        android:title="@string/my_webs"
+        app:showAsAction="never" >
+        <menu>
+            <item android:id="@+id/menuLevante"
+                android:title="@string/levante" />
+            <item android:id="@+id/menuElDiarioEs"
+                android:title="@string/el_diario" />
+        </menu>
+    </item>
+
+    <item
+        android:id="@+id/my_list"
+        android:orderInCategory="100"
+        android:title="@string/my_list"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/my_list2"
+        android:orderInCategory="100"
+        android:title="@string/my_list2"
+        app:showAsAction="never" />
+
+
+
+
+</menu>

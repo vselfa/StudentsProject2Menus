@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">El projecte</string>
+    <string name="action_settings">Configuració</string>
+    <string name="home">Inici</string>
+    <string name="my_buttons">Els meus botons</string>
+    <string name="my_webs">Les meus webs</string>
+    <string name="my_list">La meua llista</string>
+    <string name="title">My project</string>
+    <string name="title_activity_my_buttons">Botons</string>
+    <string name="switch_button">L\'interruptor </string>
+    <string name="dona">Woan</string>
+    <string name="home_va">Man</string>
+    <string name="switch_off">Switch OFF</string>
+    <string name="switch_on">Switch ON</string>
+    <string name="textview">Text interruptor</string>
+    <string name="selected_element">Element seleccionat:</string>
+    <string name="levante">Levante EMV</string>
+    <string name="el_diario">El Diario.es</string>
+    <string name="el_diario_url">https://www.eldiario.es</string>
+    <string name="levante_url">https://www.levante-emv.com/</string>
+    <string name="title_activity_my_webs">Les meus webs</string>
+    <string name="text_writers">My favourite writers</string>
+    <string name="name_book">Name of the book</string>
+    <string name="title_activity_my_list">Els meus llibres</string>
+    <string name="book">Llibre</string>
+    <string name="title_writers">Els meus escriptors favorits</string>
+
+
+
+
+</resources>
